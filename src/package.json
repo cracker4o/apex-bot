@@ -1,0 +1,16 @@
+{
+  "name": "apex-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that displays Apex Legends stats",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tosho Toshev",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-fetch": "^2.3.0",
+    "winston": "^2.4.4"
+  }
+}
